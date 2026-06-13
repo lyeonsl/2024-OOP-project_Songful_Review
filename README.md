@@ -128,3 +128,5 @@ SM-OOP-project/
 > 애플리케이션 실행 화면 시연 영상
 
 https://github.com/lyeonsl/2024-OOP-project_Songful_Review/issues/1#issue-4655073428
+
+https://github.com/lyeonsl/2024-OOP-project_Songful_Review/issues/2#issue-4655080639
